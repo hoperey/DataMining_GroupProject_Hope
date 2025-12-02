@@ -1,6 +1,6 @@
 # Data Mining Project Guide
 
-**Author:** Hope Kimandi
+**Author:** Hope Kimandi_317
 
 
 **Project Topic:** Banking Customer Behavior Analysis
