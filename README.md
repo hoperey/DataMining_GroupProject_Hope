@@ -6,7 +6,7 @@
 **Project Topic:** Banking Customer Behavior Analysis
 
 **Structure**
-`DataMining_GroupProject_Hope/ 
+DataMining_GroupProject_Hope/ 
 ├── data/ 
 │   ├── raw/ 
 │   └── transformed/ 
@@ -19,7 +19,7 @@
 │   ├── images.png/ 
 │   ├── executive_summary.pdf  
 |   └── presentation.pptx
-└── README.md`
+└── README.md
  
  
 
