@@ -1,16 +1,15 @@
 # Data Mining Project Guide
 
-**Author:** Hope Kimandi_317
+**Author:** Hope Kimandi
 
 
 **Project Topic:** Banking Customer Behavior Analysis
 
 **Structure**
-DataMining_GroupProject_Hope/ 
+`DataMining_GroupProject_Hope/ 
 ├── data/ 
 │   ├── raw/ 
-│   ├── transformed/ 
-│   └── final/ 
+│   └── transformed/ 
 ├── notebooks/ 
 │   ├── 1_extract_transform.ipynb 
 │   ├── 2_exploratory_analysis.ipynb 
@@ -20,9 +19,9 @@ DataMining_GroupProject_Hope/
 │   ├── images.png/ 
 │   ├── executive_summary.pdf  
 |   └── presentation.pptx
-├── requirements.txt 
-├── .gitignore 
-└── README.md 
+└── README.md`
+ 
+ 
 
 **Data Information:**
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. 
